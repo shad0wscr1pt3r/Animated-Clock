@@ -1,4 +1,4 @@
-# Futuristic Clock
+# Animated Clock
 
 ![Project Preview](Image.png)
 
@@ -41,4 +41,4 @@ Follow these steps to install and run the project on your local machine:
 ## Credits
 
 - **Developer**: [Shad0wscr1pt3r](https://github.com/shad0wscr1pt3r)
-- **Email**: [your_email@example.com](mailto:juanantoniogutierrezhoyos0911@gmail.com)
+- **Email**: [juanantoniogutierrezhoyos0911@gmail.com](mailto:juanantoniogutierrezhoyos0911@gmail.com)
