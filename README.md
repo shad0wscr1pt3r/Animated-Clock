@@ -1,6 +1,6 @@
 # Futuristic Clock
 
-![Project Preview](image.png)
+![Project Preview](Image.png)
 
 ## Description
 
